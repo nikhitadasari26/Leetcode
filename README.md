@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhitadasari26/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhitadasari26/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhitadasari26/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
