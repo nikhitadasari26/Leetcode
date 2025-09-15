@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nikhitadasari26/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhitadasari26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikhitadasari26/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhitadasari26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
