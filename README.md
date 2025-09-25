@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/nikhitadasari26/Leetcode/tree/master/0575-distribute-candies) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitadasari26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhitadasari26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/nikhitadasari26/Leetcode/tree/master/1137-height-checker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/nikhitadasari26/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitadasari26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nikhitadasari26/Leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/nikhitadasari26/Leetcode/tree/master/1137-height-checker) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nikhitadasari26/Leetcode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/nikhitadasari26/Leetcode/tree/master/0861-flipping-an-image) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Number Theory
 |  |
 | ------- |
