@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhitadasari26/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/nikhitadasari26/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/nikhitadasari26/Leetcode/tree/master/0575-distribute-candies) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nikhitadasari26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nikhitadasari26/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/nikhitadasari26/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikhitadasari26/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nikhitadasari26/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/nikhitadasari26/Leetcode/tree/master/0561-array-partition) |
