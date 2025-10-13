@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nikhitadasari26/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/nikhitadasari26/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/nikhitadasari26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nikhitadasari26/Leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -200,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhitadasari26/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhitadasari26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhitadasari26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
