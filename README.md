@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3221-find-the-peaks](https://github.com/nikhitadasari26/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitadasari26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3582-find-indices-of-stable-mountains](https://github.com/nikhitadasari26/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Divide and Conquer
 |  |
 | ------- |
