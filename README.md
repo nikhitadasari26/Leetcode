@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nikhitadasari26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/nikhitadasari26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhitadasari26/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nikhitadasari26/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nikhitadasari26/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/nikhitadasari26/Leetcode/tree/master/0367-valid-perfect-square) |
