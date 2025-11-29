@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhitadasari26/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhitadasari26/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhitadasari26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nikhitadasari26/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3221-find-the-peaks](https://github.com/nikhitadasari26/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitadasari26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhitadasari26/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhitadasari26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/nikhitadasari26/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nikhitadasari26/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
