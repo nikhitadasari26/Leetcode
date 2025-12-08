@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nikhitadasari26/Leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhitadasari26/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1925-count-square-sum-triples](https://github.com/nikhitadasari26/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhitadasari26/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhitadasari26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -260,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/nikhitadasari26/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3221-find-the-peaks](https://github.com/nikhitadasari26/Leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
