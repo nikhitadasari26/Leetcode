@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/nikhitadasari26/Leetcode/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/nikhitadasari26/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nikhitadasari26/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikhitadasari26/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/nikhitadasari26/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/nikhitadasari26/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0796-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
