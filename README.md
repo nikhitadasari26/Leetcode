@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nikhitadasari26/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/nikhitadasari26/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhitadasari26/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nikhitadasari26/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nikhitadasari26/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/nikhitadasari26/Leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/0867-transpose-matrix) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/nikhitadasari26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nikhitadasari26/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nikhitadasari26/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nikhitadasari26/Leetcode/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
