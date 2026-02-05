@@ -1,9 +1,9 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        char ch = ' ';
+        char ch =' ';
         for(int i=0;i<letters.length;i++){
             if(letters[i]>target){
-                ch = letters[i];
+                ch=letters[i];
                 break;
             }
         }
