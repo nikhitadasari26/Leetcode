@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhitadasari26/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nikhitadasari26/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhitadasari26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/nikhitadasari26/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/nikhitadasari26/Leetcode/tree/master/0561-array-partition) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nikhitadasari26/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Tree
 |  |
 | ------- |
