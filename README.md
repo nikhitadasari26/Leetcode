@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhitadasari26/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nikhitadasari26/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/nikhitadasari26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhitadasari26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nikhitadasari26/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikhitadasari26/Leetcode/tree/master/0075-sort-colors) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nikhitadasari26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikhitadasari26/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhitadasari26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhitadasari26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhitadasari26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhitadasari26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/nikhitadasari26/Leetcode/tree/master/0392-is-subsequence) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhitadasari26/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nikhitadasari26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhitadasari26/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhitadasari26/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhitadasari26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhitadasari26/Leetcode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nikhitadasari26/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
