@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/nikhitadasari26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nikhitadasari26/Leetcode/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/nikhitadasari26/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nikhitadasari26/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/nikhitadasari26/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
