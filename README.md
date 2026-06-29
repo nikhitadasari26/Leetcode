@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhitadasari26/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nikhitadasari26/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhitadasari26/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhitadasari26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/nikhitadasari26/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/nikhitadasari26/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhitadasari26/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/nikhitadasari26/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nikhitadasari26/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
