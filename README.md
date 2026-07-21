@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhitadasari26/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/nikhitadasari26/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nikhitadasari26/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhitadasari26/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikhitadasari26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/nikhitadasari26/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/nikhitadasari26/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nikhitadasari26/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nikhitadasari26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nikhitadasari26/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nikhitadasari26/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nikhitadasari26/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/nikhitadasari26/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nikhitadasari26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nikhitadasari26/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikhitadasari26/Leetcode/tree/master/0075-sort-colors) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nikhitadasari26/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nikhitadasari26/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
