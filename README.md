@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhitadasari26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nikhitadasari26/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/nikhitadasari26/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nikhitadasari26/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nikhitadasari26/Leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/nikhitadasari26/Leetcode/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nikhitadasari26/Leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/nikhitadasari26/Leetcode/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
@@ -411,4 +415,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/nikhitadasari26/Leetcode/tree/master/0705-design-hashset) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
