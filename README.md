@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhitadasari26/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nikhitadasari26/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1768-merge-strings-alternately](https://github.com/nikhitadasari26/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhitadasari26/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhitadasari26/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/nikhitadasari26/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
