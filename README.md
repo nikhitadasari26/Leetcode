@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nikhitadasari26/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhitadasari26/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/nikhitadasari26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhitadasari26/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -440,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhitadasari26/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
