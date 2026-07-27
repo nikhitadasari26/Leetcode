@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/nikhitadasari26/Leetcode/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/nikhitadasari26/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/nikhitadasari26/Leetcode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/nikhitadasari26/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/nikhitadasari26/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhitadasari26/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/nikhitadasari26/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/nikhitadasari26/Leetcode/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhitadasari26/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nikhitadasari26/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/nikhitadasari26/Leetcode/tree/master/0861-flipping-an-image) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/nikhitadasari26/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/nikhitadasari26/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -423,10 +426,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/nikhitadasari26/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/nikhitadasari26/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/nikhitadasari26/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/nikhitadasari26/Leetcode/tree/master/0706-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
