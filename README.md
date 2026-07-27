@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhitadasari26/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nikhitadasari26/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nikhitadasari26/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/nikhitadasari26/Leetcode/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nikhitadasari26/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nikhitadasari26/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
