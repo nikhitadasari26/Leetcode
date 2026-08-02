@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhitadasari26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhitadasari26/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/nikhitadasari26/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nikhitadasari26/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nikhitadasari26/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/nikhitadasari26/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nikhitadasari26/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikhitadasari26/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nikhitadasari26/Leetcode/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
