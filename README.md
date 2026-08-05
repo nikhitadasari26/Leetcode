@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nikhitadasari26/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/nikhitadasari26/Leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nikhitadasari26/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nikhitadasari26/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/nikhitadasari26/Leetcode/tree/master/0861-flipping-an-image) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhitadasari26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nikhitadasari26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhitadasari26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/nikhitadasari26/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nikhitadasari26/Leetcode/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/nikhitadasari26/Leetcode/tree/master/1025-divisor-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhitadasari26/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
