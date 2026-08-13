@@ -6,16 +6,16 @@ class Solution {
         int k=0;
         while(i<m && j<n){
             if(temp[i]<nums2[j]){
-                nums1[k++] = temp[i++];
+                nums1[k++] =temp[i++];
             }else{
                 nums1[k++] = nums2[j++];
             }
         }
         while(i<m){
-            nums1[k++]= temp[i++];
+            nums1[k++] = temp[i++];
         }
         while(j<n){
-            nums1[k++]= nums2[j++];
+            nums1[k++] = nums2[j++];
         }
         
     }
