@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nikhitadasari26/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhitadasari26/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhitadasari26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhitadasari26/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikhitadasari26/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nikhitadasari26/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
