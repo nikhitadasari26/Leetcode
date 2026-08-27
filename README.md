@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhitadasari26/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nikhitadasari26/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhitadasari26/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhitadasari26/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/nikhitadasari26/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nikhitadasari26/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nikhitadasari26/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhitadasari26/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhitadasari26/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nikhitadasari26/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/nikhitadasari26/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nikhitadasari26/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
