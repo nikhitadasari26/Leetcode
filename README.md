@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/nikhitadasari26/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nikhitadasari26/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nikhitadasari26/Leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/nikhitadasari26/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nikhitadasari26/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nikhitadasari26/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
