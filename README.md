@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhitadasari26/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1518-water-bottles](https://github.com/nikhitadasari26/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nikhitadasari26/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/nikhitadasari26/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/nikhitadasari26/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/nikhitadasari26/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/nikhitadasari26/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhitadasari26/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
