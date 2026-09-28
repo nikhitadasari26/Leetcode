@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitadasari26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhitadasari26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/nikhitadasari26/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/nikhitadasari26/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nikhitadasari26/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3221-find-the-peaks](https://github.com/nikhitadasari26/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitadasari26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
