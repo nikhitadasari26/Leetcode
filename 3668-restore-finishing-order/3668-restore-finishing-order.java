@@ -3,14 +3,15 @@ class Solution {
         int n = order.length;
         int m = friends.length;
         int[] arr = new int[m];
-        int idx=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(order[i]==friends[j] ){
-                    arr[idx++] = order[i];
-                }
-            }
+        int ind=0;
+        HashSet<Integer> set = new HashSet<>();
+        for(int i : friends){
+            set.add(i);
         }
-        return arr;
+        for(int i : order){
+            if(set.contains(i)){
+                arr[ind++] = i;
+            }
+        }return arr;
     }
 }
