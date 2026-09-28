@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/nikhitadasari26/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhitadasari26/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhitadasari26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nikhitadasari26/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/nikhitadasari26/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1137-height-checker](https://github.com/nikhitadasari26/Leetcode/tree/master/1137-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhitadasari26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/nikhitadasari26/Leetcode/tree/master/1137-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhitadasari26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nikhitadasari26/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nikhitadasari26/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/nikhitadasari26/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhitadasari26/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nikhitadasari26/Leetcode/tree/master/0792-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhitadasari26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nikhitadasari26/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/nikhitadasari26/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nikhitadasari26/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nikhitadasari26/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
