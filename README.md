@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhitadasari26/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nikhitadasari26/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/nikhitadasari26/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3925-concatenate-array-with-reverse](https://github.com/nikhitadasari26/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/nikhitadasari26/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/nikhitadasari26/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
