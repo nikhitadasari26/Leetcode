@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhitadasari26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nikhitadasari26/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nikhitadasari26/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nikhitadasari26/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhitadasari26/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhitadasari26/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhitadasari26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/nikhitadasari26/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitadasari26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nikhitadasari26/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nikhitadasari26/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhitadasari26/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhitadasari26/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhitadasari26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikhitadasari26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/nikhitadasari26/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nikhitadasari26/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Timsort
 |  |
 | ------- |
