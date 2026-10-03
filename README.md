@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/nikhitadasari26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhitadasari26/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nikhitadasari26/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2574-left-and-right-sum-differences](https://github.com/nikhitadasari26/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nikhitadasari26/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/nikhitadasari26/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nikhitadasari26/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikhitadasari26/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/nikhitadasari26/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Timsort
 |  |
 | ------- |
