@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nikhitadasari26/Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/nikhitadasari26/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nikhitadasari26/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nikhitadasari26/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhitadasari26/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nikhitadasari26/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/nikhitadasari26/Leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/nikhitadasari26/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/nikhitadasari26/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/nikhitadasari26/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhitadasari26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/nikhitadasari26/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nikhitadasari26/Leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nikhitadasari26/Leetcode/tree/master/1025-divisor-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nikhitadasari26/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nikhitadasari26/Leetcode/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
@@ -567,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nikhitadasari26/Leetcode/tree/master/0202-happy-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nikhitadasari26/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
